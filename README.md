@@ -16,7 +16,7 @@ In my spare time, I run. While running I process life and scientific ideas.
 
 ## Writing and Blogging
 
-I write and post prjects to my blog at [conanmercer.com](https://conanmercer.com/), here you can find my experiences in life, code and running!
+I write and post projects to my blog at [conanmercer.com](https://conanmercer.com/), here you can find my experiences in life, code and running!
 
 ## Social Media
 [![LinkedIn][1.1]][1]
