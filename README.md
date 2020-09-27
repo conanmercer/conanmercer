@@ -3,14 +3,30 @@
 <!--
 **ConanMercer/ConanMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, world!
+ 
+My name is Conan Mercer and I am an Applied Scientist currently based in Catalonia. I am interested in statistics, electrical engineering, scientific research, and computer science as academic subjects, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
+
+In my spare time, I run. While running I process life and scientific ideas.
+
+## Technology and Tools
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6347)
+![](https://img.shields.io/badge/Code-C++/C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff6347)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
+
+## Writing and Blogging
+
+I write and post prjects to my blog at [conanmercer.com](https://conanmercer.com/), here you can find my experiences in life, code and running!
+
+## Social Media
+[![LinkedIn][1.1]][1]
+
+[1.1]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[1]: https://www.linkedin.com/in/conanmercer/
