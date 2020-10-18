@@ -1,6 +1,6 @@
 ## Hello, world!
  
-My name is Conan Mercer and I am an Applied Scientist currently based in Catalonia. I am interested in statistics, electrical engineering, scientific research, and computer science as academic subjects, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
+My name is Conan Mercer and I am an Applied Scientist currently based in Catalonia. I am interested in statistics, electrical engineering, scientific research, computer science as academic subjects, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
 
 In my spare time, I run. While running I process life and scientific ideas.
 
