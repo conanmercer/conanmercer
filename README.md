@@ -27,5 +27,3 @@ I write and post projects to my blog at [conanmercer.com](https://conanmercer.co
 
 [1]: https://www.linkedin.com/in/conanmercer/
 
-## Stats
-[![Conans github stats](https://github-readme-stats.vercel.app/api?username=ConanMercer)](https://github.com/ConanMercer/github-readme-stats)
