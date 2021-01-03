@@ -6,7 +6,6 @@ In my spare time, I run. While running I process life and scientific ideas.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ConanMercer.ConanMercer)
 
-[![Conans github stats](https://github-readme-stats.vercel.app/api?username=ConanMercer)](https://github.com/ConanMercer/github-readme-stats)
 
 ## Technology and Tools
 
@@ -28,3 +27,6 @@ I write and post projects to my blog at [conanmercer.com](https://conanmercer.co
 [1.1]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
 
 [1]: https://www.linkedin.com/in/conanmercer/
+
+## Stats
+[![Conans github stats](https://github-readme-stats.vercel.app/api?username=ConanMercer)](https://github.com/ConanMercer/github-readme-stats)
