@@ -1,4 +1,4 @@
-## Hello, world!
+## Hello, world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 My name is Conan Mercer and I am an Applied Scientist currently based in Catalonia. I am interested in data science, statistics, scientific research, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
 
