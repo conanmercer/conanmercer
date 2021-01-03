@@ -6,6 +6,9 @@ In my spare time, I run. While running I process life and scientific ideas.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ConanMercer.ConanMercer)
 
+## Writing and Blogging
+
+I write and post projects to my blog at [conanmercer.com](https://conanmercer.com/), here you can find my experiences in life, code and running!
 
 ## Technology and Tools
 
@@ -16,10 +19,6 @@ In my spare time, I run. While running I process life and scientific ideas.
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fdb813)
-
-## Writing and Blogging
-
-I write and post projects to my blog at [conanmercer.com](https://conanmercer.com/), here you can find my experiences in life, code and running!
 
 ## Social Media
 [![LinkedIn][1.1]][1]
