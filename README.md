@@ -1,6 +1,6 @@
 ## Hello, world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-My name is Conan Mercer and I am an Data Engineer currently based in Catalonia. I am interested in data science, statistics, scientific research, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
+My name is Conan Mercer and I am a Site Reliability Engineer currently based in Catalonia. I am interested in data science, statistics, scientific research, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
 
 In my spare time, I run. While running I process life and scientific ideas.
 
