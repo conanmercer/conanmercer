@@ -1,6 +1,8 @@
 ## Hello, world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-My name is Conan Mercer and I am a Site Reliability Engineer currently based in Catalonia. I am interested in infrastructure as code, data science, statistics, scientific research, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
+My name is Conan Mercer and I am a Site Reliability Engineer currently based in Catalonia. I am interested in system reliability, infrastructure as code, data science, statistics, scientific research, and real world applied projects. I am also fascinated by data visualisation, and public speaking.
+
+I am a fully trained scientist, I take a scientific approach to technical problems.
 
 In my spare time, I run. While running I process life and scientific ideas.
 
